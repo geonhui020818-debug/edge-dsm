@@ -1,0 +1,8 @@
+# Raspberry Pi 3 / 4 (CPU + TFLite) 전용
+
+opencv-python
+dlib
+numpy
+flask
+psutil
+tensorflow

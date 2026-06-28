@@ -1,0 +1,9 @@
+# Orange Pi 5 (RK3588S NPU) 전용
+# rknnlite는 Rockchip 공식 패키지로 별도 설치 필요
+# https://github.com/rockchip-linux/rknn-toolkit2
+
+opencv-python
+dlib
+numpy
+flask
+psutil
